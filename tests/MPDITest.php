@@ -10,6 +10,8 @@
  * @since      6.1.0
  */
 
+use mPDF\mPDF;
+
 /**
  * The MPDI Testing suite
  * @group mpdi

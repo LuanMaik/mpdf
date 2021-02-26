@@ -1,5 +1,7 @@
 <?php
 
+use mPDF\mPDF;
+
 class mPDFTest extends PHPUnit_Framework_TestCase
 {
 

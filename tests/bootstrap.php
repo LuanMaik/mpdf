@@ -11,6 +11,9 @@
  */
 
 /* Load the autoloader */
+
+use mPDF\mPDF;
+
 require_once('vendor/autoload.php');
 
 /* Create a new instance of the mPDF class */
